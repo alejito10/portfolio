@@ -1,0 +1,12 @@
+.home{
+    background-color: rgb(43, 23, 23);
+    width: 100vw;
+    height: 100vh;
+    display: block;
+}
+.home2{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    display: block;
+}

@@ -1,0 +1,19 @@
+.navbar{
+    list-style: none;
+    float: right;
+    opacity: 50%;
+    margin-top: 2rem;
+}
+.navbar-item{
+    display: inline;
+    font-family: "europa", sans-serif;
+    margin-right: 1rem;
+    font-size: 20px;
+    line-height: 1rm;
+    text-transform: uppercase;
+    color: white;
+}
+.navbar-item:hover{
+    text-decoration: line-through;
+    text-decoration-color: goldenrod;
+}
