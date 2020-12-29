@@ -6,7 +6,9 @@ export function Home() {
     return (
         <div>
             <div className='home'>
-                <h1>home1</h1>
+                <div className='c-parrafo'>
+                    <p>portfolio</p>
+                </div>
             </div>
             
             <div className='home2'>

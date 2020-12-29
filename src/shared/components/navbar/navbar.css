@@ -2,16 +2,21 @@
     list-style: none;
     float: right;
     opacity: 50%;
-    margin-top: 2rem;
+    border-bottom: honeydew solid 1px;
+    width: 100vw;
 }
 .navbar-item{
-    display: inline;
+    display: flex;
     font-family: "europa", sans-serif;
     margin-right: 1rem;
     font-size: 20px;
     line-height: 1rm;
     text-transform: uppercase;
     color: white;
+    float: right;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
 }
 .navbar-item:hover{
     text-decoration: line-through;
